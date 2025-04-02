@@ -1,5 +1,5 @@
 .env
-**/application-*.yml
+**/application-*secret.yml
 gradle.properties
 
 HELP.md
